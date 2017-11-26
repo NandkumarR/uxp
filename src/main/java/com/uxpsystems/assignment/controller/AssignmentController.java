@@ -27,6 +27,7 @@ import com.uxpsystems.assignment.service.UserEntityService;
  */
 
 @Controller
+@RequestMapping("/assignment")
 public class AssignmentController {
 	
 	/**
